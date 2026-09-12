@@ -1,0 +1,11 @@
+name = "v22-direction-lab"
+main = "v22_direction_lab.js"
+compatibility_date = "2026-09-12"
+
+[[durable_objects.bindings]]
+name = "DIRECTION_LAB"
+class_name = "DirectionLabStore"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["DirectionLabStore"]
