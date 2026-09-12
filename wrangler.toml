@@ -1,5 +1,5 @@
 name = "v22-direction-lab"
-main = "v22_direction_lab.js"
+main = "v22_direction_lab_v2_2_1.js"
 compatibility_date = "2026-09-12"
 
 [[durable_objects.bindings]]
