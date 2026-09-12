@@ -87,3 +87,4 @@ After deployment:
 4. After data begins accumulating, use `/events?limit=300` and `/summary`.
 
 Do not interpret the first day's event count as proof of edge. Directional confirmation is done across independent UTC days/5-minute episodes and symbols after enough fresh data accumulates.
+Deploy trigger
